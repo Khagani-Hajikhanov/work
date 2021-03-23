@@ -22,15 +22,81 @@ body{
 }
 
 .div1{
-    background-image: url("./images/img1.jpg");
+    width: 200px;
+    background-image: url("http://127.0.0.1:5500/images/img1.jpg");
+    background-size: cover;
 }
 
 .div2{
-   
+    width: 100px;
+    background-image: url("http://127.0.0.1:5500/images/img2.jpg");
+    background-size: cover;
 }
 
 .div3{
-    
+    width: 250px;
+    background-image: url("http://127.0.0.1:5500/images/img3.jpg");
+    background-size: cover;
+}
+.div4{
+    width: 50px;
+    background-image: url("http://127.0.0.1:5500/images/img4.jpg");
+    background-size: cover;
+}
+.div5{
+    width: 100px;
+    background-image: url("http://127.0.0.1:5500/images/img5.jpg");
+    background-size: cover;
+}
+.div6{
+    width: 250px;
+    background-image: url("http://127.0.0.1:5500/images/img6.jpg");
+    background-size: cover;
+}
+.div7{
+    width: 80px;
+    background-image: url("http://127.0.0.1:5500/images/img7.jpg");
+    background-size: cover;
+}
+.div8{
+    width: 90px;
+    background-image: url("http://127.0.0.1:5500/images/img8.jpg");
+    background-size: cover;
+}
+.div9{
+    width: 150px;
+    background-image: url("http://127.0.0.1:5500/images/img9.jpg");
+    background-size: cover;
+}
+.div10{
+    width: 30px;
+    background-image: url("http://127.0.0.1:5500/images/img10.jpg");
+    background-size: cover;
+}
+.div11{
+    width: 100px;
+    background-image: url("http://127.0.0.1:5500/images/img11.jpg");
+    background-size: cover;
+}
+.div12{
+    width: 50px;
+    background-image: url("http://127.0.0.1:5500/images/img12.jpg");
+    background-size: cover;
+}
+.div13{
+    width: 250px;
+    background-image: url("http://127.0.0.1:5500/images/img13.jpg");
+    background-size: cover;
+}
+.div14{
+    width: 80px;
+    background-image: url("http://127.0.0.1:5500/images/img14.jpg");
+    background-size: cover;
+}
+.div15{
+    width: 50px;
+    background-image: url("http://127.0.0.1:5500/images/img15.jpg");
+    background-size: cover;
 }
 
 
